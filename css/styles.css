@@ -1,9 +1,9 @@
 :root {
-  --brandColor: #2E2F42;
+  --brandColor: #2e2f42;
 }
 
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto", "Montserrat" sans-serif;
   color: #2e2f42;
 }
 
@@ -45,23 +45,31 @@ body {
   line-height: 1.16;
 }
 
-.header-left-side {
+.studio-link {
+  text-decoration: none;
+  color: var(--brandColor);
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
 
-.studio-link {
-  text-decoration: none;
-}
-
 .portfolio-link {
   text-decoration: none;
+  color: var(--brandColor);
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 .contacts-link {
   text-decoration: none;
+  color: var(--brandColor);
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 .email {
@@ -292,5 +300,3 @@ body {
   color: #434455;
   letter-spacing: 0.02em;
 }
-
-.
