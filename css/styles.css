@@ -62,9 +62,7 @@ body {
 .menu-link:hover,
 .menu-link:focus,
 .contacts:hover,
-.contacts:focus,
-.hero-button:hover,
-.hero-button:focus {
+.contacts:focus {
   color: #404bbf;
 }
 
@@ -111,6 +109,11 @@ body {
   line-height: 1.5;
 }
 
+.hero-button:hover,
+.hero-button:focus {
+  background-color: #404bbf;
+}
+
 .hiden-title {
   display: none;
 }
@@ -120,6 +123,7 @@ body {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  color: var(--brandColor);
 }
 
 .blocks-text {
