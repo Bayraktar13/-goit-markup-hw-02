@@ -21,7 +21,7 @@ body {
 }
 
 .logo-studio {
-  color: #2e2f42;
+  color: var(--brandColor);
   letter-spacing: 0.03em;
   text-transform: uppercase;
   font-family: "Raleway", sans-serif;
@@ -46,7 +46,8 @@ body {
 .portfolio-link,
 .contacts-link {
   text-decoration: none;
-  color: #2e2f42;
+  font-family: "Roboto", sans-serif;
+  color: var(--brandColor);
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
