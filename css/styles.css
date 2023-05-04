@@ -60,13 +60,13 @@ body {
 }
 
 .menu-link:hover,
-.menu-link:focus {
+.menu-link:focus,
+.contacts:hover,
+.contacts:focus {
   color: #404bbf;
 }
 
-.email,
-.telephone {
-  text-decoration: none;
+.contacts {
   color: inherit;
   font-family: inherit;
   font-size: 16px;
