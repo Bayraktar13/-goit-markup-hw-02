@@ -1,3 +1,7 @@
+:root {
+  --brandColor: #2E2F42;
+}
+
 body {
   font-family: "Roboto", sans-serif;
   color: #2e2f42;
