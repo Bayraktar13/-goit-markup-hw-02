@@ -49,7 +49,7 @@ body {
   list-style: none;
 }
 
-.studio-link {
+.menu-link {
   font-family: "Roboto", sans-serif;
   color: var(--brandColor);
   font-weight: 500;
@@ -59,32 +59,8 @@ body {
   font-family: inherit;
 }
 
-.portfolio-link {
-  font-family: "Roboto", sans-serif;
-  color: var(--brandColor);
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  font-family: inherit;
-}
-
-.contacts-link {
-  font-family: "Roboto", sans-serif;
-  color: var(--brandColor);
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  font-family: inherit;
-}
-
-.studio-link:hover,
-.portfolio-link:hover,
-.contacts-link:hover,
-.studio-link:focus,
-.portfolio-link:focus,
-.contacts-link:focus {
+.menu-link:hover,
+.menu-link:focus {
   color: #404bbf;
 }
 
