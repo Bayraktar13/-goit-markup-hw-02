@@ -134,11 +134,22 @@ body {
   width: 264px;
 }
 
+.fourth-section {
+  background-color: #f4f4fd;
+}
+
 .main-page-title {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
+  color: var(--brandColor);
+}
+
+.background-for-image {
+  background-color: #ffffff;
 }
 
 .names-of-team {
@@ -146,10 +157,11 @@ body {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  color: var(--brandColor);
 }
 
 .rank-of-team {
-  color: #434455;
+  color: inherit;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
