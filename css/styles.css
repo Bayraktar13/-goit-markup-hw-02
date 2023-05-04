@@ -278,10 +278,15 @@ body {
 }
 
 .button-all:hover,
+.button-all:focus,
 .button-website:hover,
+.button-website:focus,
 .button-app:hover,
+.button-app:focus,
 .button-design:hover,
-.button-marketing:hover {
+.button-design:focus,
+.button-marketing:hover,
+.button-marketing:focus {
   background: #404bbf;
   color: #ffffff;
   box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08),
