@@ -203,6 +203,7 @@ body {
 }
 
 .button-website {
+  font-family: "Roboto", sans-serif;
   background-color: #f4f4fd;
   border-radius: 4px;
   border: 1px solid #e7e9fc;
@@ -219,6 +220,7 @@ body {
 }
 
 .button-app {
+  font-family: "Roboto", sans-serif;
   background-color: #f4f4fd;
   border-radius: 4px;
   border: 1px solid #e7e9fc;
@@ -235,6 +237,7 @@ body {
 }
 
 .button-design {
+  font-family: "Roboto", sans-serif;
   background-color: #f4f4fd;
   border-radius: 4px;
   border: 1px solid #e7e9fc;
@@ -251,6 +254,7 @@ body {
 }
 
 .button-marketing {
+  font-family: "Roboto", sans-serif;
   background-color: #f4f4fd;
   border-radius: 4px;
   border: 1px solid #e7e9fc;
