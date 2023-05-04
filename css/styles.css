@@ -61,6 +61,12 @@ body {
   font-family: inherit;
 }
 
+.studio-link:hover,
+.portfolio-link:hover,
+.contacts-link:hover {
+  color: #404bbf;
+}
+
 .email,
 .telephone {
   text-decoration: none;
