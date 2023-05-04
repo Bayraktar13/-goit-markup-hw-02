@@ -34,6 +34,10 @@ body {
   color: #f4f4fd;
 }
 
+.hiden-text {
+  display: none;
+}
+
 .link {
   text-decoration: none;
 }
