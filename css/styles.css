@@ -10,7 +10,6 @@ body {
 }
 
 .logo {
-  text-decoration: none;
   font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
@@ -35,17 +34,24 @@ body {
   color: #f4f4fd;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
-  line-height: 1.16;
+  line-height: 1.17;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.list {
+  list-style: none;
 }
 
 .studio-link,
 .portfolio-link,
 .contacts-link {
-  text-decoration: none;
   font-family: "Roboto", sans-serif;
   color: var(--brandColor);
   font-weight: 500;
