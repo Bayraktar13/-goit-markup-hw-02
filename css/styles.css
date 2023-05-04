@@ -63,7 +63,10 @@ body {
 
 .studio-link:hover,
 .portfolio-link:hover,
-.contacts-link:hover {
+.contacts-link:hover,
+.studio-link:focus,
+.portfolio-link:focus,
+.contacts-link:focus {
   color: #404bbf;
 }
 
