@@ -46,31 +46,16 @@ body {
   line-height: 1.16;
 }
 
-.studio-link {
-  text-decoration: none;
-  color: var(--brandColor);
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
-
-.portfolio-link {
-  text-decoration: none;
-  color: var(--brandColor);
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
-
+.studio-link,
+.portfolio-link,
 .contacts-link {
   text-decoration: none;
-  color: var(--brandColor);
+  color: #2e2f42;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  font-family: inherit;
 }
 
 .email {
